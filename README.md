@@ -1,4 +1,6 @@
 # git-basics
-Webdev Case Study-Conference on NOTHING 2023
+MAGWD GWD-6610 
+Assignment 12.1
+Git Basics
 
 Author: Jones
